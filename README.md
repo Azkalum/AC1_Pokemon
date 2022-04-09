@@ -4,3 +4,8 @@
 
 ### Renan Almeida dos Santos - 211619 - Facens 
 #### IDE: IntelliJ Ultimate 2021.3.3
+
+Video do funcionamento das batalhas e o Random sendo aplicado : 
+
+https://user-images.githubusercontent.com/98130954/162562153-07058105-0a2f-4f61-8e32-a41346d0e19e.mp4
+
